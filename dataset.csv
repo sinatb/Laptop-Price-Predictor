@@ -1,0 +1,1177 @@
+stock_status,cpu,screen_size,ram,graphic_ram,hdd,ssd
+new,Celeron,15.6 inch,4 gb,unified,1 tb,
+new,Core i7,15.6 inch,16 gb,8 gb,,512 gb
+new,M1,13 inch,8 gb,unified,,256 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,12 gb,unified,1 tb,256 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,
+new,Celeron,15.6 inch,4 gb,unified,1 tb,128 gb
+new,Core i5,12.4 inch,8 gb,unified,,256 gb
+new,M2,14 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,M2,13.6 inch,8 gb,unified,,256 gb
+new,M2,13.3 inch,8 gb,unified,,256 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i7,16 inch,16 gb,8 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,Celeron,15.6 inch,4 gb,unified,1 tb,
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,1 tb,256 gb
+new,Core i7,16 inch,16 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,4 gb,unified,1 tb,
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,1 tb
+new,Ryzen 7,15.6 inch,8 gb,2 gb,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,1 tb
+new,M1,14 inch,16 gb,unified,,512 gb
+new,M2,13.6 inch,8 gb,unified,,256 gb
+new,Celeron,15.6 inch,4 gb,unified,1 tb,
+new,Core i5,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,M2,13.3 inch,8 gb,unified,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,M2,16 inch,16 gb,unified,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,16.1 inch,16 gb,6 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i9,16 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,8 gb,unified,,512 gb
+new,Core i3,15.6 inch,8 gb,unified,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Ryzen 7,15.6 inch,32 gb,6 gb,,1 tb
+new,Celeron,15.6 inch,4 gb,unified,1 tb,256 gb
+new,Core i7,15 inch,16 gb,6 gb,,512 gb
+new,Core i7,14 inch,16 gb,unified,512 gb,512 gb
+new,M1,16 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,1 tb
+new,Core i5,15.6 inch,8 gb,unified,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,16 inch,32 gb,6 gb,,1 tb
+new,Core i3,14 inch,4 gb,unified,1 tb,
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,M2,13.3 inch,8 gb,unified,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i7,15 inch,8 gb,unified,,256 gb
+new,Celeron,15.6 inch,4 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i5,15.6 inch,12 gb,2 gb,1 tb,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,16 inch,32 gb,8 gb,,1 tb
+new,Core i3,15.6 inch,12 gb,unified,1 tb,512 gb
+new,Pentium,13.3 inch,8 gb,unified,,256 gb
+new,M2,13.6 inch,8 gb,unified,,256 gb
+new,Core i7,13.4 inch,16 gb,,,1 tb
+new,Core i7,15.6 inch,32 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i5,13.5 inch,8 gb,unified,,256 gb
+new,Core i5,12.4 inch,4 gb,unified,,64 gb
+new,Core i5,14 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,12 gb,2 gb,1 tb,
+new,Ryzen 5,15.6 inch,8 gb,4 gb,,512 gb
+new,M1,13 inch,8 gb,unified,,256 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,12 gb,unified,1 tb,512 gb
+new,M1,16 inch,16 gb,unified,,1 tb
+new,Core i9,15.6 inch,16 gb,8 gb,,1 tb
+new,Celeron,11 inch,4 gb,unified,,128 gb
+new,Core i5,,8 gb,unified,256 gb,256 gb
+new,M1,13 inch,8 gb,unified,,256 gb
+new,Core i7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i3,15.6 inch,8 gb,2 gb,,256 gb
+new,,,,,,
+new,Core i9,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,8 gb,2 gb,1 tb,
+new,Core i5,14 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,,,,,
+new,Core i7,16 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,1 tb,256 gb
+new,Core i7,16 inch,16 gb,4 gb,,512 gb
+new,M1,13 inch,8 gb,unified,,256 gb
+new,Core i7,15 inch,16 gb,6 gb,,256 gb
+new,Core i7,15.6 inch,16 gb,2 gb,,1 tb
+new,Core i3,15.6 inch,4 gb,unified,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,1 tb
+new,Ryzen 9,15.6 inch,16 gb,6 gb,,1 tb
+new,M2,16 inch,16 gb,unified,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,M2,13.6 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i3,15.6 inch,4 gb,2 gb,,256 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Celeron,15.6 inch,4 gb,unified,,256 gb
+new,Celeron,14 inch,4 gb,unified,,256 gb
+new,Ryzen 7,16 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i9,18 inch,32 gb,16 gb,,
+new,Ryzen 9,13.4 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,1 tb
+new,Celeron,15.6 inch,4 gb,unified,1 tb,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i3,15.6 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,2 gb,,1 tb
+new,Core i7,15 inch,16 gb,2 gb,,512 gb
+new,Core i7,16 inch,16 gb,6 gb,,1 tb
+new,M2,14 inch,16 gb,unified,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,256 gb,256 gb
+new,Core i7,15.6 inch,12 gb,2 gb,,512 gb
+new,Ryzen 5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,2 gb,1 tb,
+new,Ryzen 3,15.6 inch,8 gb,2 gb,1 tb,
+new,Core i5,13 inch,8 gb,unified,,512 gb
+new,Core i7,14 inch,16 gb,unified,,1 tb
+new,Core i7,13.4 inch,16 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,4 gb,unified,,256 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i9,17.3 inch,64 gb,16 gb,,4 tb
+new,M2,14 inch,96 gb,unified,,1 tb
+new,Ryzen 5,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Ryzen 7,16 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,512 gb,,,
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,16 inch,32 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,13.5 inch,16 gb,unified,,256 gb
+new,Core i5,13.5 inch,8 gb,unified,,256 gb
+new,Core i5,15.6 inch,8 gb,6 gb,,512 gb
+new,Core i5,14 inch,8 gb,unified,,512 gb
+new,Core i5,17.3 inch,16 gb,4 gb,,512 gb
+new,Core i5,13.3 inch,8 gb,unified,,512 gb
+new,Core i7,16 inch,16 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Celeron,14 inch,4 gb,unified,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,1 tb,1 tb
+new,Ryzen 5,15.6 inch,8 gb,unified,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,1 tb
+new,Ryzen 9,17.3 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,13.5 inch,32 gb,unified,,1 tb
+new,Core i9,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,13.3 inch,8 gb,unified,,512 gb
+new,Ryzen 5,16 inch,8 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,8 gb,unified,,256 gb
+new,Core i5,12.4 inch,8 gb,unified,,128 gb
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i5,12.3 inch,8 gb,,256 gb,256 gb
+new,Ryzen 7,14 inch,16 gb,unified,,1 tb
+new,,,,,,
+new,Core i3,15.6 inch,8 gb,unified,1 tb,
+new,Core i3,15.6 inch,4 gb,2 gb,,256 gb
+new,Athlon,15.6 inch,4 gb,5 gb,250 gb,
+new,Core i7,15.6 inch,16 gb,2 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Ryzen 9,17.3 inch,16 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i3,15.6 inch,4 gb,2 gb,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,8 gb,unified,,512 gb
+new,Core i3,14 inch,4 gb,unified,,512 gb
+new,Core i9,15.6 inch,32 gb,16 gb,,1 tb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Ryzen 9,16 inch,64 gb,16 gb,,4 tb
+new,Core i3,15.6 inch,4 gb,unified,,256 gb
+new,Core i5,17.3 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i5,12.4 inch,16 gb,unified,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,1 tb
+new,M2,13.3 inch,8 gb,unified,,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,8 gb,,512 gb
+new,Ryzen 7,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i5,12.3 inch,8 gb,,256 gb,256 gb
+new,Core i5,15.6 inch,8 gb,,,1 tb
+new,Core i7,15 inch,8 gb,6 gb,0 gb,512 gb
+new,Core i5,16.1 inch,16 gb,4 gb,,512 gb
+new,Core i9,15.6 inch,16 gb,6 gb,,1 tb
+new,M1,14 inch,16 gb,unified,,1 tb
+new,Core 2 Duo,14 inch,2 gb,,250 gb,
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i7,13 inch,16 gb,,,512 gb
+new,Core i7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,1 tb,1 tb
+new,Core i7,14 inch,256 gb,2 gb,256 gb,256 gb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,,512 gb
+new,M2,13.6 inch,8 gb,unified,,512 gb
+new,Ryzen 5,15.6 inch,12 gb,4 gb,512 gb,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,,,,,,
+new,Core i9,16 inch,32 gb,12 gb,,1 tb
+new,Core i7,14.5 inch,12 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,512 gb
+new,Core i7,13.5 inch,16 gb,unified,,256 gb
+new,Core i7,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,13.5 inch,16 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i9,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,1 tb,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,4 gb,,1 tb
+new,M2,13.6 inch,8 gb,unified,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i5,,,,,
+new,Ryzen 7,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,16 inch,8 gb,unified,,512 gb
+new,Core i7,15 inch,16 gb,unified,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,Ryzen 7,16 inch,32 gb,6 gb,,1 tb
+new,Ryzen 7,17.3 inch,16 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,17.3 inch,16 gb,unified,,1 tb
+new,Celeron,15.6 inch,4 gb,unified,,256 gb
+new,Core i3,14 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,32 gb,4 gb,,512 gb
+new,,,,,,
+new,Ryzen 3,15.6 inch,16 gb,,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i5,13.5 inch,8 gb,unified,,256 gb
+new,Core i3,15.6 inch,4 gb,unified,,256 gb
+new,Core i5,16 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,8 gb,unified,,512 gb
+new,Ryzen 7,15.6 inch,,,,1 tb
+new,Core i7,13.5 inch,16 gb,unified,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,,,,,,
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,M1,13 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i5,14 inch,8 gb,unified,256 gb,256 gb
+new,Ryzen 7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i7,13.5 inch,16 gb,unified,,512 gb
+new,Ryzen 9,15.6 inch,16 gb,12 gb,,512 gb
+new,Ryzen 7,15.6 inch,8 gb,4 gb,,512 gb
+new,M2,13.6 inch,16 gb,unified,,1 tb
+new,Core i3,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,Core i7,15.6 inch,16 gb,unified,,512 gb
+new,Core i9,15.6 inch,32 gb,8 gb,,1 tb
+new,Core i3,15.6 inch,12 gb,unified,1 tb,256 gb
+new,Core i7,16.1 inch,16 gb,6 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,16 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,16 inch,32 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Ryzen 5,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i3,15.6 inch,12 gb,2 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,14 inch,8 gb,,,256 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,12 gb,,,
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,8 gb,unified,,512 gb
+new,M2,16 inch,32 gb,unified,,1 tb
+new,Core i7,15.6 inch,16 gb,,256 gb,256 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,8 gb,,512 gb
+new,Core i7,15.6 inch,8 gb,4 gb,,512 gb
+new,Celeron,10.1 inch,4 gb,,,128 gb
+new,Ryzen 7,16 inch,32 gb,8 gb,,1 tb
+new,Core i3,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,M2,13.6 inch,8 gb,unified,,256 gb
+new,Core i9,18 inch,64 gb,16 gb,,2 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i9,13.4 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,,,,
+new,Core i7,15 inch,16 gb,6 gb,,1 tb
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i7,13.5 inch,16 gb,4 gb,,256 gb
+new,Core i5,14 inch,16 gb,,,1000 gb
+new,Core i5,15.6 inch,16 gb,4 gb,1 tb,256 gb
+new,Ryzen 7,14 inch,16 gb,4 gb,,512 gb
+new,Core i7,16.1 inch,16 gb,4 gb,,512 gb
+new,Core i7,14 inch,16 gb,2 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,15 inch,32 gb,6 gb,,1 tb
+new,Core i9,16 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,A6,13.3 inch,4 gb,512 mb,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i7,14 inch,16 gb,,,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,512 gb
+new,Core i7,16 inch,16 gb,8 gb,,1 tb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,512 gb
+new,Ryzen 9,16 inch,32 gb,16 gb,,1 tb
+new,,,,,,
+new,Celeron,15.6 inch,4 gb,unified,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,1 tb
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i5,,8 gb,4 gb,,256 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,13.9 inch,16 gb,2 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,512 gb,512 gb
+new,Core i5,13.5 inch,8 gb,unified,,256 gb
+new,Core i5,14 inch,8 gb,4 gb,,4 tb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i7,13 inch,16 gb,unified,,1 tb
+new,Core i9,,32 gb,,,
+new,Core i3,15.6 inch,12 gb,unified,,512 gb
+new,Ryzen 5,16.1 inch,16 gb,4 gb,,512 gb
+new,Ryzen 7,15.6 inch,8 gb,2 gb,,256 gb
+new,Ryzen 5,15.6 inch,8 gb,unified,,1 tb
+new,Core i9,16 inch,16 gb,4 gb,,1 tb
+new,,15.6 inch,,,,
+new,,15 inch,,,,
+new,Core i7,14 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i3,15.6 inch,8 gb,unified,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,12.5 inch,8 gb,,,256 gb
+new,Core i7,17.3 inch,16 gb,4 gb,,512 gb
+new,Core i7,14 inch,8 gb,,,512 gb
+new,,,,,,
+new,Core i7,15.6 inch,8 gb,2 gb,1 tb,1 tb
+new,Core i5,15.6 inch,8 gb,unified,,1 tb
+new,Core i7,15.6 inch,12 gb,2 gb,,512 gb
+new,Core i7,13.5 inch,32 gb,4 gb,,1 tb
+new,Core i3,15.6 inch,4 gb,unified,,128 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,,,,,,
+new,Core i5,13 inch,,,,
+new,Core i5,15.6 inch,16 gb,2 gb,,512 gb
+new,M1,14 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Ryzen 5,15.6 inch,8 gb,2 gb,,256 gb
+new,Core i5,14 inch,8 gb,unified,,256 gb
+new,Core i5,14 inch,32 gb,,,
+new,Core i3,15.6 inch,12 gb,2 gb,1 tb,128 gb
+new,Ryzen 7,15.6 inch,16 gb,unified,512 gb,512 gb
+new,Core i7,15 inch,16 gb,6 gb,,512 gb
+new,Core i7,12.5 inch,8 gb,,,256 gb
+new,Core i5,16.1 inch,16 gb,,,512 gb
+new,M2,13.6 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,512 gb,512 gb
+new,Ryzen 9,15.6 inch,16 gb,8 gb,,1 tb
+new,Ryzen 5,15.6 inch,8 gb,,1 tb,
+new,Core i7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i7,16 inch,16 gb,4 gb,,1 tb
+new,Ryzen 5,14 inch,8 gb,unified,,1 tb
+new,Core i7,14.4 inch,32 gb,4 gb,,2 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i9,13.4 inch,16 gb,4 gb,,1 tb
+new,Ryzen 3,15.6 inch,4 gb,,,256 gb
+new,Core i5,,,,,
+new,Core i5,17.3 inch,16 gb,6 gb,,512 gb
+new,Core i7,16 inch,32 gb,6 gb,,2 tb
+new,Core i7,14 inch,8 gb,1 gb,256 gb,256 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,12 gb,2 gb,1 tb,1 tb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,Core i9,16 inch,32 gb,16 gb,,1 tb
+new,Core i7,15.6 inch,32 gb,4 gb,1 tb,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i9,16 inch,16 gb,12 gb,,1 tb
+new,Ryzen 9,14 inch,16 gb,12 gb,,1 tb
+new,Core i7,15.6 inch,32 gb,8 gb,,2 tb
+new,Ryzen 7,16 inch,8 gb,2 gb,,512 gb
+new,A4,14 inch,4 gb,,,
+new,Ryzen 5,15.6 inch,8 gb,4 gb,,512 gb
+new,Ryzen 5,15.6 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,256 gb
+new,,,,,,
+new,Core i7,15.6 inch,16 gb,8 gb,,512 gb
+new,Core i3,15.6 inch,8 gb,2 gb,,512 gb
+new,Celeron,15.6 inch,4 gb,,,128 gb
+new,Athlon,11 inch,4 gb,unified,,128 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,unified,,512 gb
+new,Core i7,,,,,
+new,Celeron,14 inch,4 gb,unified,,128 gb
+new,Core i7,14 inch,16 gb,2 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,,1 tb
+new,Core i9,16 inch,64 gb,8 gb,,2 tb
+new,Core i7,15.6 inch,16 gb,unified,,512 gb
+new,Core i7,16 inch,16 gb,8 gb,,1 tb
+new,Core i3,15.6 inch,4 gb,unified,1 tb,
+new,Core i5,17.3 inch,8 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,8 gb,,2 tb
+new,Core i9,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i9,17.3 inch,32 gb,16 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,1 tb,1 tb
+new,Core i5,13 inch,8 gb,,,256 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i9,17 inch,,,,1 tb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i7,14 inch,16 gb,4 gb,,1 tb
+new,Core i7,14 inch,16 gb,4 gb,,
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i9,15 inch,16 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,1 tb,256 gb
+new,Core i7,14 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i5,17.3 inch,8 gb,2 gb,,1 tb
+new,Ryzen 7,17.3 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,2 gb,,256 gb
+new,Core i5,15.6 inch,8 gb,unified,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,1000 gb
+new,Core i9,17 inch,64 gb,16 gb,,4 tb
+new,Core i5,15.6 inch,16 gb,unified,,512 gb
+new,Core i5,15.6 inch,16 gb,8 gb,,1 tb
+new,M2,16 inch,64 gb,unified,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,32 gb,6 gb,,2 tb
+new,Core i7,17.3 inch,16 gb,4 gb,1 tb,128 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i3,15.6 inch,8 gb,2 gb,,256 gb
+new,Core i9,17.3 inch,64 gb,16 gb,,2 tb
+new,Core i7,15.6 inch,32 gb,unified,,1 tb
+new,M1,16 inch,64 gb,unified,,4 tb
+new,Core i9,17.3 inch,16 gb,8 gb,,1 tb
+new,Ryzen 5,16 inch,16 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,13.3 inch,16 gb,unified,,512 gb
+new,Core i7,13 inch,16 gb,2 gb,,512 gb
+new,Core i7,13.3 inch,16 gb,unified,,1 tb
+new,Ryzen 7,15.6 inch,16 gb,8 gb,,512 gb
+new,Ryzen 7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i7,16 inch,32 gb,6 gb,,1 tb
+new,Ryzen 9,16 inch,32 gb,16 gb,,2 tb
+new,Ryzen 9,14 inch,32 gb,16 gb,,1 tb
+new,Core i7,13.4 inch,16 gb,unified,,1 tb
+new,Ryzen 9,17.3 inch,16 gb,8 gb,,1 tb
+new,Core i3,15.6 inch,4 gb,unified,,256 gb
+new,Core i3,15.6 inch,12 gb,unified,,512 gb
+new,Core i5,15.6 inch,16 gb,2 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,unified,,512 gb
+new,Core i5,13.5 inch,8 gb,unified,,256 gb
+new,Core i3,15.6 inch,8 gb,unified,1 tb,256 gb
+new,Core i5,14 inch,8 gb,unified,,256 gb
+new,Core i7,17.3 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,4 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Ryzen 5,15.6 inch,8 gb,2 gb,1 tb,
+new,Core i7,15 inch,16 gb,unified,256 gb,256 gb
+new,Core i7,17.3 inch,16 gb,8 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,256 gb
+new,Ryzen 5,13.4 inch,8 gb,2 gb,,256 gb
+new,Core i7,15.6 inch,32 gb,8 gb,,2 tb
+new,Core i7,14 inch,16 gb,4 gb,,512 gb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,1 tb,512 gb
+new,Core i9,16 inch,32 gb,8 gb,,2 tb
+new,M2,16 inch,96 gb,,,
+new,Core i9,13.4 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i9,17.3 inch,16 gb,6 gb,,1 tb
+new,Core i7,14 inch,32 gb,unified,,1 tb
+new,Core i7,15.6 inch,16 gb,8 gb,,2 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i9,18 inch,16 gb,8 gb,,1 tb
+new,Ryzen 5,15.6 inch,8 gb,2 gb,,256 gb
+new,Core i9,18 inch,64 gb,16 gb,,4 tb
+new,Ryzen 7,13.4 inch,32 gb,4 gb,,1 tb
+new,Celeron,15.6 inch,4 gb,unified,1 tb,256 gb
+new,Core i5,14.4 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,24 gb,4 gb,,1 tb
+new,Ryzen 7,17.3 inch,16 gb,6 gb,,1 tb
+new,Core i9,15.6 inch,32 gb,16 gb,,2 tb
+new,Core i9,16 inch,32 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Celeron,15.6 inch,4 gb,unified,,256 gb
+new,Core i3,15.6 inch,12 gb,2 gb,,256 gb
+new,,,,,,
+new,Core i7,15.6 inch,32 gb,2 gb,,1 tb
+new,Core i7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i7,16 inch,16 gb,6 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,1 tb
+new,Core i9,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,16 inch,16 gb,6 gb,,1 tb
+new,Core i5,15.6 inch,16 gb,2 gb,1 tb,256 gb
+new,Core i7,15 inch,16 gb,unified,,512 gb
+new,Celeron,15.6 inch,4 gb,unified,1 tb,
+new,Core i5,14 inch,16 gb,,,512 gb
+new,Core i7,14 inch,16 gb,8 gb,,512 gb
+new,Core i3,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i7,,16 gb,,,
+new,,,,,,
+new,M2,14 inch,32 gb,unified,,1 tb
+new,Core i5,15 inch,8 gb,unified,,128 gb
+new,Core i3,15.6 inch,4 gb,2 gb,,512 gb
+new,Xeon,15.6 inch,,,,
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i3,15.6 inch,4 gb,2 gb,1 tb,128 gb
+new,,,,,,
+new,Core i5,13.3 inch,,,,
+new,Celeron,15.6 inch,4 gb,2 gb,,512 gb
+new,Core i7,14 inch,16 gb,,,
+new,,15.6 inch,,,,
+new,Ryzen 7,15.6 inch,16 gb,4 gb,1 tb,256 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,
+new,Core i9,15.6 inch,32 gb,8 gb,,1 tb
+new,Core i3,15.6 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,12 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i7,17 inch,16 gb,,,1 tb
+new,Core i9,17 inch,32 gb,12 gb,,2 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Ryzen 7,16 inch,32 gb,8 gb,,1 tb
+new,Core i3,15.6 inch,4 gb,unified,,512 gb
+new,Core i3,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,256 gb
+new,Core i5,15.6 inch,8 gb,2 gb,,256 gb
+new,M2,13 inch,16 gb,unified,,512 gb
+new,,,,,,
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i5,14 inch,8 gb,,,
+new,Core i3,14 inch,4 gb,unified,1 tb,
+new,Core i9,15.6 inch,32 gb,8 gb,,1 tb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,17.3 inch,8 gb,4 gb,,256 gb
+new,Core i3,15.6 inch,4 gb,unified,,256 gb
+new,Ryzen 9,15.6 inch,32 gb,8 gb,,1 tb
+new,Core i5,14 inch,8 gb,1 gb,500 gb,
+new,Core i3,15.6 inch,12 gb,unified,1 tb,256 gb
+new,Core i7,14 inch,16 gb,2 gb,,
+new,Ryzen 7,16 inch,16 gb,6 gb,,1 tb
+new,Core i9,17.3 inch,64 gb,12 gb,,4 tb
+new,Core i7,15.6 inch,8 gb,2 gb,1 tb,1 tb
+new,Core i5,12.5 inch,16 gb,unified,512 gb,512 gb
+new,Core i5,13 inch,8 gb,,,256 gb
+new,Core i7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i9,18 inch,64 gb,12 gb,,1 tb
+new,Core i7,14 inch,4 gb,,256 gb,256 gb
+new,,,,,,
+new,Core i5,15.6 inch,32 gb,4 gb,,512 gb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,,1 tb
+new,Celeron,12.5 inch,,,,
+new,Core i7,16 inch,16 gb,6 gb,,1 tb
+new,M2,16 inch,16 gb,unified,,1 tb
+new,Core i3,16 inch,8 gb,unified,,256 gb
+new,Celeron,15.6 inch,4 gb,unified,1 tb,128 gb
+new,Core i9,16 inch,32 gb,12 gb,,
+new,Core i7,15.6 inch,32 gb,8 gb,,512 gb
+new,Core i5,13 inch,8 gb,unified,256 gb,256 gb
+new,Core i3,15.6 inch,4 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i5,15.6 inch,16 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,8 gb,,1 tb
+new,Core i7,14 inch,16 gb,,,
+new,M2,14 inch,32 gb,unified,,1 tb
+new,Ryzen 5,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,M1,16 inch,32 gb,400 gb,,1 tb
+new,Core i7,15 inch,16 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,512 gb
+new,Core i7,14 inch,16 gb,unified,,512 gb
+new,Core i7,,16 gb,6 gb,,
+new,Core i3,15.6 inch,12 gb,unified,1 tb,512 gb
+new,Core i5,15 inch,8 gb,unified,,256 gb
+new,Core i5,14 inch,24 gb,,,256 gb
+new,Core i3,15.6 inch,8 gb,unified,,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,,,,,
+new,Core i7,,,,,
+new,Core i7,15.6 inch,12 gb,2 gb,1 tb,512 gb
+new,Core i5,14 inch,8 gb,,,256 gb
+new,Core i5,16 inch,16 gb,4 gb,,512 gb
+new,M2,13.6 inch,24 gb,unified,,1 tb
+new,Core i9,15.6 inch,16 gb,8 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,6 gb,,1 tb
+new,Core i7,14 inch,16 gb,unified,,1 tb
+new,Core i5,15.6 inch,8 gb,unified,,256 gb
+new,Ryzen 7,17.3 inch,8 gb,8 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,8 gb,,1 tb
+new,Core i7,13.3 inch,16 gb,,,256 gb
+new,Core i7,14 inch,8 gb,2 gb,1 tb,256 gb
+new,Ryzen 9,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,2 gb,500 gb,
+new,Core i7,13.4 inch,16 gb,,,
+new,Core i7,,16 gb,,,512 gb
+new,Core i7,13.4 inch,8 gb,,,256 gb
+new,Core i3,15.6 inch,12 gb,unified,,512 gb
+new,Core i5,14.4 inch,16 gb,unified,,256 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i9,16 inch,16 gb,8 gb,,512 gb
+new,Ryzen 7,15 inch,8 gb,,,
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 7,15.6 inch,8 gb,2 gb,,1 tb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,,512 gb
+new,Xeon,,16 gb,4 gb,,2 gb
+new,Core i7,14 inch,4 gb,,500 gb,
+new,Core i9,16.1 inch,16 gb,8 gb,,1 tb
+new,Core i5,14 inch,16 gb,8 gb,,512 gb
+new,Core i7,,16 gb,,,
+new,Ryzen 9,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,512 gb
+new,Core i9,17.3 inch,32 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,512 gb
+new,Ryzen 9,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,32 gb,4 gb,,1 tb
+new,Ryzen 5,13.5 inch,8 gb,unified,,128 gb
+new,Ryzen 5,15.6 inch,16 gb,unified,,512 gb
+new,Core i5,15.6 inch,20 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,,,512 gb
+new,Core i5,15.6 inch,32 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,12 gb,unified,,512 gb
+new,Ryzen 5,14 inch,8 gb,2 gb,,512 gb
+new,,15 inch,,,,
+new,Core i5,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,6 gb,,2 tb
+new,Core i7,13.5 inch,16 gb,2 gb,,512 gb
+new,Ryzen 7,15.6 inch,8 gb,2 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,17.3 inch,8 gb,4 gb,,512 gb
+new,Ryzen 5,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i7,16 inch,32 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,M1,13 inch,8 gb,unified,,512 gb
+new,Core i3,14 inch,4 gb,unified,,128 gb
+new,Ryzen 9,,,,,
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,512 gb
+new,Ryzen 5,15.6 inch,8 gb,,,256 gb
+new,Core i7,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i3,15.6 inch,8 gb,unified,,256 gb
+new,Core i7,17 inch,2 gb,4 gb,,512 gb
+new,Core i9,16 inch,32 gb,12 gb,,2 tb
+new,M1,13 inch,8 gb,unified,,512 gb
+new,Core i5,14 inch,8 gb,,256 gb,256 gb
+new,Core i3,15.6 inch,12 gb,unified,,512 gb
+new,Core i5,14 inch,8 gb,unified,,1 tb
+new,Core i3,15.6 inch,4 gb,2 gb,,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,2 gb,6 gb,256 gb
+new,Core i5,13.5 inch,16 gb,,,256 gb
+new,Core i7,16 inch,32 gb,4 gb,,1 tb
+new,Core i3,15.6 inch,8 gb,unified,1 tb,1 tb
+new,Core i9,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i9,16 inch,32 gb,16 gb,,1 tb
+new,M2,16 inch,32 gb,,,1 tb
+new,Core i5,15.6 inch,8 gb,2 gb,,1 tb
+new,Ryzen 9,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,6 gb,,512 gb
+new,Core i7,14 inch,8 gb,unified,,256 gb
+new,Core i5,15.6 inch,8 gb,4 gb,1 tb,256 gb
+new,Ryzen 7,15 inch,8 gb,,,
+new,Core i9,15.6 inch,32 gb,16 gb,,2 tb
+new,,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i9,13.4 inch,16 gb,8 gb,,1 tb
+new,Core i9,16.1 inch,64 gb,16 gb,,1 tb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i9,16 inch,32 gb,16 gb,,1 tb
+new,Core i9,17.3 inch,64 gb,16 gb,,2 tb
+new,Core i7,,8 gb,4 gb,,4 tb
+new,Ryzen 9,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,12 gb,2 gb,1 tb,128 gb
+new,Core i7,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,12 gb,2 gb,,1 tb
+new,Core i7,14 inch,16 gb,2 gb,512 gb,512 gb
+new,Core i3,15.6 inch,8 gb,unified,1 tb,512 gb
+new,Core i7,17.3 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,14.4 inch,16 gb,4 gb,,512 gb
+new,,,,,,
+new,Core i9,16 inch,32 gb,8 gb,,1 tb
+new,Core i9,16 inch,16 gb,8 gb,,512 gb
+new,Core i7,16 inch,32 gb,6 gb,,1 tb
+new,Ryzen 7,15 inch,16 gb,,,
+new,Core i7,13.3 inch,16 gb,,,
+new,Ryzen 5,15.6 inch,8 gb,,,1 tb
+new,Core i7,15 inch,8 gb,unified,,256 gb
+new,Core i7,13.3 inch,,,,
+new,Core i3,15.6 inch,4 gb,2 gb,1 tb,
+new,Core i3,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,Core i3,15.6 inch,4 gb,2 gb,,512 gb
+new,Core i7,15 inch,32 gb,6 gb,,512 gb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,,512 gb
+new,Pentium,11.6 inch,4 gb,128 mb,256 gb,128 gb
+new,Xeon,15 inch,,,,512 gb
+new,Core i3,15.6 inch,12 gb,2 gb,1 tb,128 gb
+new,Core i5,14 inch,8 gb,4 gb,,512 gb
+new,M2,16 inch,16 gb,unified,,512 gb
+new,Core i3,15.6 inch,4 gb,unified,1 tb,256 gb
+new,Core i9,18 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,unified,,512 gb
+new,Ryzen 7,17.3 inch,32 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,8 gb,,512 gb
+new,Core i3,15.6 inch,4 gb,,,256 gb
+new,Core i3,15.6 inch,12 gb,2 gb,,256 gb
+new,Ryzen 7,17.3 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,,,256 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i5,13.5 inch,8 gb,,,256 gb
+new,Core i7,17.3 inch,16 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,2 gb,,256 gb
+new,,,,,,
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,256 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,2 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,,,,,,
+new,Core i9,15.6 inch,32 gb,6 gb,,1 tb
+new,,,,,,
+new,Core i7,15.6 inch,8 gb,2 gb,,
+new,Ryzen 7,15.6 inch,32 gb,8 gb,1 tb,1 tb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,16 inch,16 gb,6 gb,,1 tb
+new,Core i3,15.6 inch,4 gb,unified,1 tb,
+new,Core i3,15.6 inch,12 gb,unified,,512 gb
+new,Core i7,15.6 inch,20 gb,2 gb,,512 gb
+new,Ryzen 9,15.6 inch,16 gb,8 gb,,1 tb
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 5,15.6 inch,8 gb,4 gb,1 tb,512 gb
+new,Core i5,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,,,512 gb
+new,Athlon,15.6 inch,8 gb,unified,1 tb,
+new,Core i9,16 inch,16 gb,8 gb,,1 tb
+new,Core i7,16 inch,8 gb,unified,,512 gb
+new,Core i3,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i9,15.6 inch,64 gb,16 gb,,1 tb
+new,Core i9,15.6 inch,32 gb,6 gb,,512 gb
+new,Core i9,16 inch,16 gb,8 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,12 gb,2 gb,1 tb,1 tb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i3,15.6 inch,4 gb,unified,,512 gb
+new,Core i9,16 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,512 gb
+new,Ryzen 3,15.6 inch,8 gb,2 gb,,256 gb
+new,Core i9,16 inch,16 gb,8 gb,,1 tb
+new,Ryzen 7,15.6 inch,24 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,8 gb,2 gb,,256 gb
+new,Core i3,15.6 inch,12 gb,unified,,512 gb
+new,Ryzen 5,,,,,
+new,Core i3,14 inch,4 gb,unified,1 tb,256 gb
+new,Core i7,13.9 inch,16 gb,,,512 gb
+new,Core i5,17.3 inch,16 gb,4 gb,,1 tb
+new,Core i9,15.6 inch,16 gb,8 gb,,512 gb
+new,Core i5,17.3 inch,16 gb,4 gb,,512 gb
+new,Core i5,13.3 inch,8 gb,4 gb,,512 gb
+new,Core i7,13.3 inch,16 gb,,256 gb,256 gb
+new,Core i7,14 inch,16 gb,2 gb,,1 tb
+new,Core i5,15.6 inch,12 gb,2 gb,1 tb,1 tb
+new,Core i7,16.1 inch,16 gb,8 gb,,1 tb
+new,Core i5,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i5,15.6 inch,12 gb,2 gb,,512 gb
+new,Ryzen 7,16 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,32 gb,4 gb,,512 gb
+new,Ryzen 5,15.6 inch,8 gb,4 gb,,512 gb
+new,Ryzen 5,15.6 inch,8 gb,6 gb,,256 gb
+new,Core i9,16.1 inch,32 gb,12 gb,,1 tb
+new,Core i9,18 inch,32 gb,16 gb,,1 tb
+new,Core i5,14 inch,8 gb,unified,256 gb,256 gb
+new,Core i3,15.6 inch,12 gb,2 gb,1 tb,512 gb
+new,Ryzen 7,16 inch,16 gb,unified,,1 tb
+new,Celeron,15.6 inch,4 gb,unified,1 tb,
+new,Core i3,15.6 inch,12 gb,4 gb,,512 gb
+new,,15.6 inch,8 gb,,,6 gb
+new,Core i7,17.3 inch,32 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i7,17.3 inch,16 gb,8 gb,,1 tb
+new,M2,13 inch,16 gb,unified,,512 gb
+new,Core i3,15.6 inch,8 gb,2 gb,256 gb,256 gb
+new,Ryzen 5,14 inch,8 gb,unified,,512 gb
+new,M2,13 inch,16 gb,100 gb,,256 gb
+new,Core i3,15.6 inch,20 gb,2 gb,1 tb,512 gb
+new,,,,,,
+new,Core i7,15.6 inch,16 gb,unified,,1 tb
+new,Core i7,17 inch,16 gb,,,1 tb
+new,Ryzen 5,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,1 tb
+new,Core i5,15.6 inch,16 gb,2 gb,1 tb,1 tb
+new,Core i5,14 inch,16 gb,,,
+new,Core i5,15.6 inch,16 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,M2,13.6 inch,24 gb,,,1 tb
+new,,,,,,
+new,Core i7,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,Ryzen 9,,32 gb,8 gb,,1 tb
+new,Core i7,14 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i9,6 inch,64 gb,,,8 tb
+new,,14 inch,4 gb,512 mb,,
+new,Core i5,13 inch,8 gb,,,256 gb
+new,Core i3,15.6 inch,8 gb,unified,1 tb,256 gb
+new,Core i3,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Ryzen 7,17.3 inch,16 gb,8 gb,,1 tb
+new,Celeron,15.6 inch,4 gb,unified,1 tb,
+new,Core i5,14 inch,16 gb,,,256 gb
+new,,15.6 inch,,,,
+new,Core i7,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,12 gb,2 gb,,512 gb
+new,Celeron,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,6 gb,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i3,15.6 inch,12 gb,2 gb,,512 gb
+new,M2,14 inch,16 gb,,,1 tb
+new,Celeron,15.6 inch,4 gb,,8 gb,128 gb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,64 gb,,,512 gb
+new,Ryzen 5,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i3,14 inch,8 gb,unified,1 tb,
+new,Core i9,16 inch,32 gb,16 gb,,1 tb
+new,Ryzen 5,14 inch,8 gb,,,1 tb
+new,Core i5,15.6 inch,8 gb,2 gb,,256 gb
+new,Core i7,16 inch,32 gb,8 gb,,1 tb
+new,Core i9,16 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,1 tb
+new,Ryzen 3,15.6 inch,4 gb,unified,1 tb,
+new,Ryzen 7,15.6 inch,12 gb,6 gb,1 tb,512 gb
+new,Core i7,14 inch,16 gb,,,1 tb
+new,Core i5,16 inch,8 gb,4 gb,512 gb,512 gb
+new,Core i7,15.6 inch,16 gb,2 gb,,1 tb
+new,,15.6 inch,,,,
+new,Ryzen 3,15.6 inch,12 gb,,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,,,1 tb
+new,Core i7,15.6 inch,32 gb,8 gb,1 tb,1 tb
+new,Xeon,15.6 inch,32 gb,4 gb,,512 gb
+new,Core i7,14 inch,4 gb,,,
+new,Core i7,15.6 inch,8 gb,2 gb,,
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i5,14 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i7,17.3 inch,16 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,12 gb,2 gb,1 tb,512 gb
+new,Core i5,16 inch,16 gb,,,512 gb
+new,Core i7,16 inch,16 gb,8 gb,,512 gb
+new,Ryzen 3,15.6 inch,4 gb,unified,,512 gb
+new,Core i7,13.3 inch,8 gb,,,1 tb
+new,Core i7,16 inch,16 gb,8 gb,,512 gb
+new,Core i7,12.5 inch,,,,256 gb
+new,Ryzen 5,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,256 gb
+new,Core i5,11 inch,4 gb,,,256 gb
+new,Core i9,17.3 inch,32 gb,16 gb,,
+new,Core i5,,8 gb,,,
+new,Core i3,15.6 inch,4 gb,unified,1 tb,
+new,Core i7,,16 gb,,,
+new,Core i5,15.6 inch,8 gb,,,256 gb
+new,,,,,,
+new,Core i5,15.6 inch,8 gb,unified,,1 tb
+new,Core i5,15.6 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i5,12.5 inch,8 gb,,,
+new,Core i7,15.6 inch,8 gb,4 gb,,512 gb
+new,Celeron,15.6 inch,4 gb,unified,500 gb,
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i9,16 inch,32 gb,16 gb,,1 tb
+new,Ryzen 7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Ryzen 5,,,,,
+new,Core i5,14 inch,8 gb,1 gb,,256 gb
+new,Core i7,15.6 inch,8 gb,2 gb,,256 gb
+new,M2,,,,,
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i9,15.6 inch,32 gb,,1 tb,1 tb
+new,Core i5,15 inch,8 gb,2 gb,1 tb,256 gb
+new,Ryzen 7,16 inch,16 gb,6 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,2 gb,1 tb,512 gb
+new,Core i5,15.6 inch,,,,
+new,Ryzen 5,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,,,1 tb
+new,M1,16 inch,32 gb,400 gb,,1 tb
+new,Celeron,15.6 inch,8 gb,unified,,256 gb
+new,Core i7,15 inch,8 gb,,,
+new,Celeron,15 inch,4 gb,unified,,256 gb
+new,Core i7,14 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i9,15.6 inch,32 gb,,,
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,,,,,,
+new,M1,16 inch,16 gb,unified,,1 tb
+new,Core i5,13.5 inch,8 gb,unified,,256 gb
+new,Ryzen 7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,Core i5,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i3,15.6 inch,4 gb,unified,1 tb,
+new,Core i5,13.5 inch,4 gb,,,2 tb
+new,Core i7,15.6 inch,,,,
+new,,,,,,
+new,Core i5,17.3 inch,8 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,6 gb,,2 tb
+new,Core i9,15.6 inch,16 gb,6 gb,512 gb,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i5,15.6 inch,16 gb,2 gb,1 tb,512 gb
+new,,,,,,
+new,Ryzen 3,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,,15.6 inch,8 gb,,,
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i7,16 inch,32 gb,8 gb,,2 tb
+new,,12.5 inch,8 gb,,,512 gb
+new,Core i7,15.6 inch,32 gb,6 gb,,1 tb
+new,Ryzen 7,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,1 gb,500 gb,
+new,M1,13 inch,8 gb,unified,,256 gb
+new,,,,,,
+new,Athlon,15.6 inch,8 gb,2 gb,,256 gb
+new,,,,,,
+new,Core i7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i7,12.5 inch,16 gb,,512 gb,512 gb
+new,Core i3,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Ryzen 7,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i5,6 inch,16 gb,4 gb,1 tb,
+new,Ryzen 7,15.6 inch,16 gb,6 gb,,2 tb
+new,Core i5,14 inch,8 gb,unified,,256 gb
+new,Pentium,15.6 inch,4 gb,unified,1 tb,
+new,Ryzen 7,17.3 inch,16 gb,8 gb,,1 tb
+new,Core i3,15.6 inch,12 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,13.5 inch,8 gb,unified,,512 gb
+new,Core i5,15.6 inch,32 gb,4 gb,1 tb,512 gb
+new,Celeron,15 inch,4 gb,unified,,
+new,Ryzen 5,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,512 gb,512 gb
+new,Core i5,15.6 inch,16 gb,4 gb,,1 tb
+new,Ryzen 3,15.6 inch,4 gb,unified,,256 gb
+new,M2,14 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,,,,
+new,Ryzen 7,16 inch,16 gb,6 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Ryzen 9,16 inch,32 gb,16 gb,,4 tb
+new,Core i5,15.6 inch,16 gb,4 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Ryzen 7,16 inch,16 gb,8 gb,,1 tb
+new,Core i7,17.3 inch,16 gb,4 gb,,1 tb
+new,Core i7,16 inch,512 gb,4 gb,,
+new,Ryzen 9,16 inch,64 gb,12 gb,,4 tb
+new,Core i5,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i3,15.6 inch,8 gb,unified,1 tb,128 gb
+new,Core i7,15.6 inch,20 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,24 gb,4 gb,,512 gb
+new,Core i7,16 inch,32 gb,6 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,
+new,Core i9,16 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,1 tb
+new,,14 inch,,,,
+new,Core i7,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Celeron,15.6 inch,4 gb,unified,500 gb,
+new,Core i9,17.3 inch,32 gb,12 gb,,1 tb
+new,Ryzen 5,14 inch,,6 gb,,
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,,,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 9,16 inch,32 gb,16 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i3,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i9,18 inch,16 gb,12 gb,,
+new,Core i7,,16 gb,,,
+new,Core i5,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i5,17.3 inch,16 gb,4 gb,,512 gb
+new,Core i7,,,,,
+new,Core i5,15.6 inch,8 gb,unified,,512 gb
+new,M2,15.3 inch,8 gb,,,256 gb
+new,Core i7,16 inch,32 gb,8 gb,,1 tb
+new,Ryzen 5,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 5,15.6 inch,8 gb,,,512 gb
+new,,,,,,
+new,Core i9,17.3 inch,16 gb,6 gb,,1 tb
+new,Core i5,15.6 inch,32 gb,4 gb,,1 tb
+new,Ryzen 7,15 inch,8 gb,unified,,256 gb
+new,Core i7,15 inch,16 gb,4 gb,,256 gb
+new,Core i7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i5,58.0 inch,16 gb,,,
+new,,,,,,
+new,Core i3,15.6 inch,8 gb,unified,1 tb,256 gb
+new,Core i5,12 inch,,,,
+new,Core i5,15.6 inch,12 gb,unified,,512 gb
+new,Ryzen 7,15.6 inch,8 gb,2 gb,,
+new,Ryzen 3,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,2 gb,,1 tb
+new,Core i5,15 inch,8 gb,2 gb,,
+new,Core i7,16 inch,16 gb,8 gb,,512 gb
+new,Core i3,15.6 inch,12 gb,2 gb,1 tb,256 gb
+new,Core i5,15.6 inch,16 gb,2 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,4 gb,unified,,256 gb
+new,Ryzen 7,16 inch,16 gb,8 gb,,512 gb
+new,Core i3,,,,,
+new,Athlon,11.6 inch,4 gb,unified,,512 gb
+new,Core i3,15.6 inch,20 gb,2 gb,1 tb,256 gb
+new,Core i7,16 inch,32 gb,8 gb,,2 tb
+new,Core i5,15.6 inch,24 gb,unified,,512 gb
+new,Core i5,,4 gb,2 gb,,
+new,Core i9,18 inch,16 gb,8 gb,,1 tb
+new,Core i7,15 inch,32 gb,8 gb,,1 tb
+new,Core i7,13.3 inch,16 gb,unified,256 gb,512 gb
+new,Core i5,14 inch,8 gb,128 mb,500 gb,
+new,Core i7,,8 gb,,,
+new,Core i7,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,12 gb,2 gb,,512 gb
+new,,,,,,
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i5,13.5 inch,8 gb,unified,,512 gb
+new,Core i7,15.6 inch,16 gb,6 gb,1 tb,1 tb
+new,Ryzen 5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,16 inch,32 gb,16 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,,,8 gb,,,
+new,,,,,,
+new,Core i5,,8 gb,,,
+new,,,,,,
+new,Core i5,12.5 inch,8 gb,,,
+new,Core i7,15 inch,16 gb,8 gb,,512 gb
+new,,13 inch,,,,
+new,,14 inch,4 gb,,,
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,128 gb
+new,Core i7,15.6 inch,32 gb,4 gb,,512 gb
+new,Core i7,15 inch,32 gb,6 gb,,
+new,Core i7,15.6 inch,32 gb,4 gb,,
+new,M1,16 inch,16 gb,unified,,512 gb
+new,Core i7,15.6 inch,32 gb,16 gb,1 tb,1 tb
+new,Ryzen 7,17.3 inch,16 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i5,15.6 inch,12 gb,2 gb,1 tb,512 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,512 gb
+new,Ryzen 9,15.6 inch,16 gb,12 gb,,1 tb
+new,Core i7,17.3 inch,16 gb,8 gb,,1 tb
+new,Core i7,15.6 inch,16 gb,6 gb,,512 gb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,16 inch,8 gb,4 gb,,1 tb
+new,,,,,,
+new,Core i5,13.5 inch,16 gb,,,
+new,Core i3,14 inch,8 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,8 gb,2 gb,1 tb,256 gb
+new,Core i3,15.6 inch,4 gb,2 gb,,256 gb
+new,Core i5,15.6 inch,16 gb,4 gb,1 tb,512 gb
+new,Core i7,15.6 inch,24 gb,6 gb,,1 tb
+new,Ryzen 5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,12.4 inch,8 gb,,,
+new,,15 inch,2 gb,,,
+new,Core i7,17.3 inch,32 gb,6 gb,,1 tb
+new,Core i7,15 inch,16 gb,8 gb,,1 tb
+new,,,,,,
+new,Core i5,14 inch,4 gb,unified,500 gb,
+new,Core i7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i7,15 inch,16 gb,6 gb,,256 gb
+new,Core i3,15.6 inch,8 gb,2 gb,512 gb,512 gb
+new,Core i7,17 inch,32 gb,,,
+new,Core i9,,,,,
+new,Core i5,13.5 inch,16 gb,unified,,512 gb
+new,Core i3,15.6 inch,4 gb,unified,1 tb,
+new,Core i5,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i5,13.3 inch,8 gb,4 gb,512 gb,512 gb
+new,Core i7,14 inch,16 gb,2 gb,,512 gb
+new,Ryzen 7,15.6 inch,16 gb,4 gb,1 tb,256 gb
+new,Core i7,15.6 inch,16 gb,8 gb,,256 gb
+new,Core i9,16 inch,32 gb,8 gb,,1 tb
+new,Core i5,12.4 inch,8 gb,,,128 gb
+new,Ryzen 5,15 inch,8 gb,,256 gb,256 gb
+new,Core i7,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,6 gb,,1 tb
+new,Ryzen 5,15.6 inch,8 gb,2 gb,1 tb,1 tb
+new,Ryzen 7,15.6 inch,8 gb,2 gb,1 tb,
+new,Core i7,16 inch,16 gb,4 gb,,1 tb
+new,Core i5,,128 gb,6 gb,,
+new,Core i5,15.6 inch,32 gb,4 gb,,1 tb
+new,Core i3,15.6 inch,8 gb,unified,1 tb,1 tb
+new,Core i7,15.6 inch,16 gb,8 gb,,1 tb
+new,Ryzen 7,15.6 inch,16 gb,8 gb,,1 tb
+new,Core i5,14 inch,8 gb,,,
+new,Core i7,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i5,14 inch,4 gb,unified,320 gb,
+new,Core i3,14 inch,4 gb,2 gb,,256 gb
+new,Core i7,14 inch,16 gb,8 gb,,1 tb
+new,Ryzen 7,15 inch,8 gb,,,
+new,Core i5,15.6 inch,8 gb,4 gb,,256 gb
+new,,17.1 inch,16 gb,8 gb,,
+new,,,,,,
+new,,,,,,
+new,Core i7,,16 gb,2 gb,,
+new,Core i5,15.6 inch,8 gb,2 gb,1 tb,512 gb
+new,Core i5,15.6 inch,32 gb,4 gb,,512 gb
+new,Core i5,15.6 inch,8 gb,,,512 gb
+new,Core i3,15.6 inch,8 gb,unified,1 tb,256 gb
+new,Core i7,,,,,
+new,Ryzen 5,15.6 inch,16 gb,6 gb,,512 gb
+new,Core i5,14 inch,8 gb,2 gb,256 gb,256 gb
+new,Core i7,17.3 inch,16 gb,8 gb,,1 tb
+new,Ryzen 5,15.6 inch,8 gb,unified,,512 gb
+new,,,,,,
+new,Ryzen 5,15.6 inch,,,,
+new,Core i7,16 inch,16 gb,4 gb,,1 tb
+new,Core i7,16 inch,16 gb,8 gb,,512 gb
+new,Ryzen 5,15.6 inch,8 gb,unified,512 gb,512 gb
+new,Core i9,16 inch,64 gb,16 gb,,1 tb
+new,Core i7,14.4 inch,32 gb,4 gb,,1 tb
+new,Core i5,16 inch,16 gb,8 gb,,512 gb
+new,Pentium,15 inch,4 gb,,,
+new,Core i7,97 inch,32 gb,6 gb,,512 gb
+new,Core i9,18 inch,32 gb,16 gb,,
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Core i7,15.6 inch,32 gb,6 gb,,1 tb
+new,Core i7,15.6 inch,24 gb,2 gb,,1 tb
+new,Core i5,15.6 inch,8 gb,2 gb,,512 gb
+new,Core i9,18 inch,32 gb,8 gb,,2 tb
+new,Core i5,15.6 inch,8 gb,4 gb,,512 gb
+new,Ryzen 5,,8 gb,,,
+new,Core i7,17.3 inch,32 gb,8 gb,,2 tb
+new,Core i7,14.4 inch,32 gb,4 gb,,1 tb
+new,Core i7,17.3 inch,16 gb,,,1 tb
+new,Core i7,16 inch,16 gb,8 gb,,512 gb
+new,,,,,,
+new,M2,14 inch,64 gb,unified,,1 tb
+new,Core i5,15.6 inch,16 gb,4 gb,,512 gb
+new,Core i3,15.6 inch,4 gb,2 gb,1 tb,
+stock,Core i5,14 inch,16 gb,8 gb,,256 gb
+new,M1,16 inch,64 gb,,,2 tb
+new,Ryzen 9,17 inch,16 gb,8 gb,,1 tb
+new,Core i7,13 inch,,,,
+new,Ryzen 7,,8 gb,,,
+new,Ryzen 5,15.6 inch,16 gb,4 gb,,1 tb
+new,Core i7,15.6 inch,8 gb,2 gb,,256 gb
+new,Core i7,15.6 inch,16 gb,,,
+new,Ryzen 7,16.1 inch,,,,
